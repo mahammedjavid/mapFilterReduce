@@ -1,0 +1,2 @@
+# mapFilterReduce
+map(), filter(), reduce()
